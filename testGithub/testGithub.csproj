@@ -117,6 +117,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="11111111.html" />
     <Content Include="Global.asax" />
     <Content Include="HtmlPage1.html" />
     <Content Include="scripts\ai.0.22.9-build00167.js" />
